@@ -1,0 +1,1 @@
+global.numberofexclamation=0

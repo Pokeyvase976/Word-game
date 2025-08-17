@@ -1,0 +1,1 @@
+global.battle=true
